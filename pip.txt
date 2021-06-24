@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 iiw
-dfsdfdsfd
-=======
-iiiiw
->>>>>>> 77e9fa25fd02a78701cde78862c10b173354ed0f
-dffdfvfvdfvfd
+dfsdfds
+iiii
+dffdfvfv
+iiiiiidffdfvfvdfvfd
